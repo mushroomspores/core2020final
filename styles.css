@@ -1,0 +1,148 @@
+#bigtitle {
+    font-family: 'Baloo Bhaina 2', cursive;
+    color: white;
+    font-size: 50px;
+    line-height: 50px;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#introtext {
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-size: 30px;
+    line-height: 30px;
+    color: #fc9586;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#introtext2 {
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-size: 40px;
+    line-height: 40px;
+    color: #fccc3a;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#introtext3 {
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-size: 30px;
+    line-height: 30px;
+    color: #fc9586;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#introtext4 {
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-size: 30px;
+    line-height: 30px;
+    color: #ebb209;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#introtext6 {
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-size: 30px;
+    line-height: 30px;
+    color: #fc9586;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+a {
+  font-family: 'Baloo Bhaina 2', cursive;
+  font-size: 30px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #664796;
+}
+
+#wind_trees video{
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  height: 250px;
+}
+
+#fanhorizontal video{
+  position: absolute;
+  top: 30px;
+  left: 300px;
+  height: 140px;
+}
+#clouds_sky video{
+  position: absolute;
+  top: 30px;
+  left: 555px;
+  height: 140px;
+}
+
+#window_light video{
+  position: absolute;
+  top: 260px;
+  left: 280px;
+  height: 130px;
+}
+#laundry video{
+  position: absolute;
+  top: 260px;
+  left: 520px;
+  height: 240px;
+}
+
+#night_window_wobbly video{
+  position: absolute;
+  top: 180px;
+  left: 830px;
+  height: 240px;
+}
+#pink_garden video{
+  position: absolute;
+  top: 40px;
+  left: 1050px;
+  height: 190px;
+}
+#night_multiple_windows video{
+  position: absolute;
+  top: 290px;
+  left: 1000px;
+  height: 180px;
+}
+
+#tape_flying video{
+  position: absolute;
+  top: 620px;
+  left: 40px;
+  height: 150px;
+}
+
+#shadow_blowing video{
+  position: absolute;
+  top: 590px;
+  left: 370px;
+  height: 130px;
+}
+#water_ripple_zoomed_in video{
+  position: absolute;
+  top: 590px;
+  left: 605px;
+  height: 130px;
+}
+
+#pool_ripple_day video{
+  position: absolute;
+  top: 630px;
+  left: 900px;
+  height: 140px;
+}
+#cone_pool_night video{
+  position: absolute;
+  top: 630px;
+  left: 1150px;
+  height: 140px;
+}
