@@ -21,7 +21,7 @@
     font-family: 'Baloo Bhaina 2', cursive;
     font-size: 40px;
     line-height: 40px;
-    color: #fccc3a;
+    color: #ebb209;
     padding-left: 40px;
     padding-right: 40px;
 }
@@ -62,7 +62,7 @@ a {
   color: #664796;
 }
 
-#wind_trees video{
+#rain_leaves video{
   position: absolute;
   top: 40px;
   left: 40px;
@@ -85,33 +85,34 @@ a {
 #window_light video{
   position: absolute;
   top: 260px;
-  left: 280px;
-  height: 130px;
+  left: 240px;
+  height: 120px;
 }
 #laundry video{
   position: absolute;
   top: 260px;
-  left: 520px;
+  left: 470px;
   height: 240px;
 }
 
-#night_window_wobbly video{
+#rain video{
   position: absolute;
-  top: 180px;
-  left: 830px;
-  height: 240px;
+  top: 230px;
+  left: 720px;
+  height: 140px;
 }
+
 #pink_garden video{
   position: absolute;
   top: 40px;
   left: 1050px;
-  height: 190px;
+  height: 195px;
 }
 #night_multiple_windows video{
   position: absolute;
-  top: 290px;
+  top: 270px;
   left: 1000px;
-  height: 180px;
+  height: 190px;
 }
 
 #tape_flying video{
