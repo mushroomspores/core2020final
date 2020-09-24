@@ -1,16 +1,18 @@
 #bigtitle {
-    font-family: 'Baloo Bhaina 2', cursive;
+  font-family: 'Nanum Myeongjo', serif;
     color: white;
     font-size: 50px;
+    font-weight: 100;
     line-height: 50px;
-    padding-top: 30px;
+    padding-top: 40px;
     padding-left: 40px;
     padding-right: 40px;
 }
 
 #introtext {
-    font-family: 'Baloo Bhaina 2', cursive;
+  font-family: 'Nanum Myeongjo', serif;
     font-size: 30px;
+    font-weight: 100;
     line-height: 30px;
     color: #fc9586;
     padding-left: 40px;
@@ -18,17 +20,19 @@
 }
 
 #introtext2 {
-    font-family: 'Baloo Bhaina 2', cursive;
-    font-size: 40px;
-    line-height: 40px;
-    color: #ebb209;
+  font-family: 'Nanum Myeongjo', serif;
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 30px;
+    color: white;
     padding-left: 40px;
     padding-right: 40px;
 }
 
 #introtext3 {
-    font-family: 'Baloo Bhaina 2', cursive;
+  font-family: 'Nanum Myeongjo', serif;
     font-size: 30px;
+    font-weight: 100;
     line-height: 30px;
     color: #fc9586;
     padding-left: 40px;
@@ -36,17 +40,19 @@
 }
 
 #introtext4 {
-    font-family: 'Baloo Bhaina 2', cursive;
+  font-family: 'Nanum Myeongjo', serif;
     font-size: 30px;
+    font-weight: 100;
     line-height: 30px;
-    color: #ebb209;
+    color: white;
     padding-left: 40px;
     padding-right: 40px;
 }
 
 #introtext6 {
-    font-family: 'Baloo Bhaina 2', cursive;
+  font-family: 'Nanum Myeongjo', serif;
     font-size: 30px;
+    font-weight: 100;
     line-height: 30px;
     color: #fc9586;
     padding-left: 40px;
@@ -54,12 +60,13 @@
 }
 
 a {
-  font-family: 'Baloo Bhaina 2', cursive;
+  font-family: 'Nanum Myeongjo', serif;
   font-size: 30px;
+  font-weight: 100;
   padding-top: 40px;
   padding-left: 40px;
   padding-right: 40px;
-  color: #664796;
+  color: #fc9586;
 }
 
 #rain_leaves video{
